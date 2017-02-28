@@ -1,0 +1,5 @@
+jupyter
+requests
+BeautifulSoup4
+unicodecsv
+
