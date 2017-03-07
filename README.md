@@ -1,7 +1,7 @@
 ## Intro to Python 3
 ### NICAR17 Jacksonville
 
-The third part of a Python primer that covers how to use coding as a data journalism tool. For more, see [Part 1](TK) ([Liz Lucas](https://github.com/eklucas), Kaiser Health News) or [Part 2](TK) ([Cathy Deng](https://github.com/cathydeng), BuzzFeed).
+The third part of a Python primer that covers how to use coding as a data journalism tool. For more, see [Part 1](https://github.com/eklucas/python-intro) ([Liz Lucas](https://github.com/eklucas), Kaiser Health News) or [Part 2](https://github.com/cathydeng/python-for-newbies) ([Cathy Deng](https://github.com/cathydeng), BuzzFeed).
 
 We'll work on scraping a web page's data table with a Python script and packages that make the whole process easier.  
 
